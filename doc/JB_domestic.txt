@@ -3,7 +3,7 @@ Title: OISTER 談話会
 Event: オンライン
 Location: オンライン
 Dates: 2025-08-22
-Type:
+Type: 口頭
 URL: 
 
 Presenters: 紅山 仁
