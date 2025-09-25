@@ -25,7 +25,7 @@ a.nolinelink:hover{
   font-family: 'Helvetica Neue','Osaka','游ゴシック体', 'Yu Gothic', YuGothic,sans-serif;
   font-size:1.0em;
   color:black;
-  width: 1000px;
+  width: 1200px;
   margin:10 auto;
 }
 code {
@@ -187,6 +187,9 @@ ul {
 #pageBodyMain table td{
   border:1px solid #CCCCCC
   padding:5px 10px;
+  /* Wide cell  */
+  max-width: 500px;        
+  white-space: normal;     
 }
 #pageBodyMain table th{
   background-color:#EEEEEE;
