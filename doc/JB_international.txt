@@ -1,0 +1,114 @@
+Presenters: Jin Beniyama; Marco DELBO; Thomas Müller; Luca Conversi; Margherita Maria Revellino; Paolo Tanga; Karri Muinonen; Javier Licandro
+Title: On the detection and characterization of potential Earth-impacting asteroids from space in the thermal infrared
+Event: EPSC-DPS Joint Meeting 2025
+Location: Finlandia Hall Helsinki, Finland
+Dates: 2025-09-07; 2025-09-12
+Type: Oral 
+URL: https://www.epsc-dps2025.eu/
+
+Presenters: Jin Beniyama
+Title: Telescopic Observations of Near-Earth Asteroids During Close Approaches: Contributions to Planetary Defense
+Event: FY2024 Planetary Defense Symposium (16th Spaceguard Symposium)
+Location: オンライン
+Dates: 2025-02-27; 2025-02-28
+Type: Oral 
+Memo: Invited talk
+URL: https://www.isas.jaxa.jp/researchers/symposium/planetary_defense/fy_2024.html
+
+Presenters: Jin Beniyama & Marco Delbo
+Title: Thermal infrared observations of near-Earth asteroids with the TAO 6.5-m telescope
+Event: EU-ESA Workshop on Size Determination of Potentially Hazardous Near-Earth Objects
+Location: Darmstadt
+Dates: 2024-11-11; 2024-11-13
+Type: Oral
+Memo: Invited
+
+Presenters: Jin Beniyama
+Title: Photometric Observations of Tiny Near-Earth Asteroids during the Close Approaches
+Event: Europlanet Science Congress 2024
+Location: Berlin + Online
+Dates: 2024-09-09; 2024-09-12
+Type: Oral
+Memo: Online due to VISA problem
+
+Presenters: Jin Beniyama
+Title: Observation proposals of the Hayabusa2# target asteroid 1998 KY26 with ground-based telescopes in 2024
+Event: 2nd Hayabusa2# Joint Science Team (H#JST) Meeting
+Location: Tokyo, Japan
+Dates: 2023-11-18
+Type: Oral
+Memo:
+
+Presenters: Jin Beniyama
+Title: Recent Telescopic Observations of Near-Earth Asteroids: Asteroids of Interests for Future Missions
+Event: ISAS Planetary Exploration Workshop 2023
+Location: Tokyo, Japan
+Dates: 2023-08-28; 2023-08-30
+Type: Oral
+Memo: Invited
+
+Presenters: Jin Beniyama, Sako Shigeyuki, Katsuhito Ohtsuka, ..., (19 co-authors)
+Title: Polarimetric Observations of Small Near-Earth Asteroid 2010 XC15 at Large Phase Angles
+Event: Asteroids, Comets, Meteors Conference 2023
+Location: USA, Arizona
+Dates: 2023-06-18; 2023-06-23
+Type: Oral
+Memo:
+
+Presenters: Jin Beniyama and 13 co-authors
+Title: Multicolor Simultaneous Photometry of (3200) Phaethon with Seimei/TriCCS in 2021
+Event: The 3rd DESTINY+ Science Working Team (SWT) meeting
+Location: Online
+Dates: 2023-03-02; 2023-03-03
+Type: Oral
+Memo:
+
+
+Presenters: Jin Beniyama
+Title: Quick Follow-up Observations of Near-Earth Asteroids
+Event: The 4th Japan-Chile Academic Forum 2022
+Location: Republic of Chile
+Dates: 2022-11-29; 2022-11-30
+Type: Oral
+Memo:
+
+Presenters: Jin Beniyama, Shigeyuki Sako, Ryou Ohsawa, Satoshi Takita, Naoto Kobayashi, Shin-ichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Fumihiko Usui, Fumi Yoshida
+Title: Subsecond Photometry of Tiny Near-Earth Objects with Tomo-e Gozen
+Event: IAU General Assembly, Focus Meeting 8, Planetary Astronomy via Telescopic and Microscopic Approaches
+Location: Busan
+Dates: 2022-08-02; 2022-08-03
+Type: Oral 
+Memo: Invited
+
+Presenters: Beniyama Jin, Sako Shigeyuki, Ohsawa Ryou, Takita Satoshi, Kobayashi Naoto, Okumura Shin-ichiro, Urakawa Seitaro, Yoshikawa Makoto, Usui Fumihiko, Yoshida Fumi
+Title: Subsecond Time-Resolved Photometry of Tiny Near-Earth Objects with Tomo-e Gozen
+Event: The 53rd Lunar and Planetary Science Conference (LPSC2022)
+Location: The Woodlands, Texas + Online
+Dates: 2022-03-07; 2022-03-11
+Type: Poster
+Memo:
+
+Presenters: Jin Beniyama, Tomohiko Sekiguchi
+Title: Multicolor Simultaneous Photometry of (3200) Phaethon with Seimei/TriCCS
+Event: The 2nd DESTINY+ Science Working Team (SWT) Meeting
+Location: Online
+Dates: 2022-02-24; 2022-02-25
+Type: Oral
+Memo: 
+
+Presenters: Jin Beniyama, Tomohiko Sekiguchi, Daisuke Kuroda, Tomoko Arai, Ko Ishibashi, Masateru Ishiguro, Ryou Ohsawa, Takafumi Ootsubo, Shigeyuki Sako, Hiroki Senshu, Satoshi Takita, Fumi Yoshida
+Title: Multicolor Simultaneous Photometry of (3200) Phaethon with Seimei/TriCCS
+Event: PERC Int'l Symposium on Dust & Parent Bodies 2022
+Location: Online 
+Dates: 2022-02–21; 2022-02-22
+Type: Oral
+Memo:
+
+
+Presenters: Beniyama Jin, Sako Shigeyuki, Ohsawa Ryou, Takita Satoshi, Kobayashi Naoto, Okumura Shin-ichiro, Urakawa Seitaro, Usui Fumihiko, Yoshida Fumi, Yoshikawa Makoto
+Title: Highly Time-Resolved Photometric Observation of Tiny Near Earth Objects with the Tomo-e Gozen Camera
+Event: Japan Geoscience Union Meeting 2021
+Location: Online
+Dates: 2021-05-30; 2021-06-06
+Type: Oral
+Memo: Outstanding Student Presentation Award
