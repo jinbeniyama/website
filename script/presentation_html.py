@@ -164,7 +164,7 @@ def plot_yearly_counts_scatter(domestic_entries, international_entries, fig_file
     plt.figure(figsize=(12, 6))
     plt.plot(all_years, domestic_vals, '-o', color='blue', label='Domestic')       
     plt.plot(all_years, international_vals, '-s', color='red', label='International')
-    plt.plot(all_years, total_vals, '-^', color='green', label='Total') ー
+    plt.plot(all_years, total_vals, '-^', color='green', label='Total') 
 
     plt.xlabel('Year')
     plt.ylabel('Number of Presentations')
