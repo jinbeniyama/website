@@ -1,3 +1,11 @@
+Presenters: Jin Beniyama; Eri Tatsumi; Keigo Enya; Sunao Hasegawa; Moe Matsuoka; Takafumi Ootsubo; Fumihiko Usui
+Title: Near-Earth Asteroid observations with Ariel
+Event: Ariel Consortium Meeting 2025
+Location: Madrid, Spain
+Dates: 2025-09-30; 2025-10-03
+Type: Oral 
+URL: https://eventos.upm.es/132958/dates/ariel-consortium-meeting-madrid.html
+
 Presenters: Jin Beniyama; Marco DELBO; Thomas Müller; Luca Conversi; Margherita Maria Revellino; Paolo Tanga; Karri Muinonen; Javier Licandro
 Title: On the detection and characterization of potential Earth-impacting asteroids from space in the thermal infrared
 Event: EPSC-DPS Joint Meeting 2025
