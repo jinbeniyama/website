@@ -17,7 +17,7 @@ URL: https://www.epsc-dps2025.eu/
 Presenters: Jin Beniyama
 Title: Telescopic Observations of Near-Earth Asteroids During Close Approaches: Contributions to Planetary Defense
 Event: FY2024 Planetary Defense Symposium (16th Spaceguard Symposium)
-Location: オンライン
+Location: Online
 Dates: 2025-02-27; 2025-02-28
 Type: Oral 
 Memo: Invited talk
