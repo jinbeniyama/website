@@ -11,7 +11,8 @@ Location: xxx
 Dates: 1996-05-18; 2025-04-19
 Type: Oral / Poster 
 Memo: / Invited / Award / Other>
-URL: <リンク>
+URL: <link>
+Material: <presentation file, should be under ./doc/>
 """
 import argparse
 import datetime
@@ -67,6 +68,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </html>
 """
 
+
 def parse_txt_file(txt_file):
     """Parse the presentation text file into a list of dicts."""
     entries = []
@@ -87,35 +89,47 @@ def parse_txt_file(txt_file):
         entries.append(current)
     return entries
 
+
 def make_table_html(entries, title):
     """Generate HTML table from entries."""
     rows = []
     for i, e in enumerate(entries, start=1):
         presenters = e.get('Presenters', 'Unknown')
-        title_val = e.get('Title', 'No title')
-        event = e.get('Event', '')
+        title = e.get('Title', 'No title')
+        event_0 = e.get('Event', '')
         location = e.get('Location', '')
         dates = e.get('Dates', '')
         type_val = e.get('Type', '')
         url = e.get('URL', '').strip()
         memo = e.get('Memo', '')
+        material = e.get('Material', '').strip()
 
+        # Event with optional URL
         if url:
-            title_html = f'<a href="{url}" target="_blank">{title_val}</a>'
+            event_html = f'<a href="{url}" target="_blank">{event_0}</a>'
         else:
-            title_html = title_val
+            event_html = event_0
+
+        # Material link if available
+        dir_presentation = "doc"
+        if material:
+            material_html = f'<a href="{dir_presentation}/{material}" target="_blank">[Material]</a>'
+        else:
+            material_html = ''
 
         row_html = f"""        <tr>
           <td>{i}</td>
           <td class='authors'>{presenters}</td>
-          <td>{title_html}</td>
-          <td>{event}</td>
+          <td>{title}</td>
+          <td>{event_html}</td>
           <td>{location}</td>
           <td>{dates}</td>
           <td>{type_val}</td>
           <td>{memo}</td>
+          <td>{material_html}</td>
         </tr>"""
         rows.append(row_html)
+
     table_html = f"""      <h1>{title}</h1>
       <hr>
       <table class="pub-list">
@@ -128,12 +142,12 @@ def make_table_html(entries, title):
           <th>Dates</th>
           <th>Type</th>
           <th>Memo</th>
+          <th>Material</th>
         </tr>
 {chr(10).join(rows)}
       </table>
 """
     return table_html
-
 
 
 def plot_yearly_counts_scatter(domestic_entries, international_entries, fig_file):
