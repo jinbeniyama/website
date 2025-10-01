@@ -8,6 +8,14 @@
 - Summarize (research) budget used in the past
 - Add JB's whole life
 
+
+## Prepare
+```
+# Use large file system
+git lfs track "*pdf"
+```
+
+
 ## Update html files 
 ```
 # Make `publication.html`
