@@ -90,7 +90,7 @@ def parse_txt_file(txt_file):
     return entries
 
 
-def make_table_html(entries, title):
+def make_table_html(entries, title_table):
     """Generate HTML table from entries."""
     rows = []
     for i, e in enumerate(entries, start=1):
@@ -130,7 +130,7 @@ def make_table_html(entries, title):
         </tr>"""
         rows.append(row_html)
 
-    table_html = f"""      <h1>{title}</h1>
+    table_html = f"""      <h1>{title_table}</h1>
       <hr>
       <table class="pub-list">
         <tr>
@@ -210,8 +210,8 @@ def main():
     tables_html += make_table_html(domestic_entries, "Domestic Presentations")
     tables_html += make_table_html(international_entries, "International Presentations")
 
-
     html_content = HTML_TEMPLATE.format(last_update=now, fig_file=args.fig, tables=tables_html)
+
     with open(args.output_html, 'w', encoding='utf-8') as f:
         f.write(html_content)
     print(f"Generated HTML: {args.output_html}")
