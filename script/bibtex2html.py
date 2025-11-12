@@ -146,7 +146,13 @@ def bib_to_table_rows(bib_files, first_author_table=True):
         journal = normalize_journal(raw_journal)
         volume = entry.fields.get("volume", "")
         pages = entry.fields.get("pages", "")
-        journal_info = ", ".join(filter(None, [journal, volume, pages, str(year)]))
+        doi = entry.fields.get("doi", "")
+
+        journal_info_parts = [journal, volume, pages, str(year)]
+        if doi:
+            #journal_info_parts.append(f"doi: {doi}")
+            journal_info_parts.append(f'doi: <a href="https://doi.org/{doi}" target="_blank">{doi}</a>')
+        journal_info = ", ".join(filter(None, journal_info_parts))
 
         row_html = f"""        <tr>
           <td>{i}</td>
