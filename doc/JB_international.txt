@@ -89,7 +89,7 @@ Dates: 2022-08-02; 2022-08-03
 Type: Oral 
 Memo: Invited
 
-Presenters: Beniyama Jin, Sako Shigeyuki, Ohsawa Ryou, Takita Satoshi, Kobayashi Naoto, Okumura Shin-ichiro, Urakawa Seitaro, Yoshikawa Makoto, Usui Fumihiko, Yoshida Fumi
+Presenters: Jin Beniyama, Shigeyuki Sako, Ryou Ohsawa, Satoshi Takita, Naoto Kobayashi, Shin-ichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Fumihiko Usui, Fumi Yoshida
 Title: Subsecond Time-Resolved Photometry of Tiny Near-Earth Objects with Tomo-e Gozen
 Event: The 53rd Lunar and Planetary Science Conference (LPSC2022)
 Location: The Woodlands, Texas + Online
@@ -109,12 +109,12 @@ Presenters: Jin Beniyama, Tomohiko Sekiguchi, Daisuke Kuroda, Tomoko Arai, Ko Is
 Title: Multicolor Simultaneous Photometry of (3200) Phaethon with Seimei/TriCCS
 Event: PERC Int'l Symposium on Dust & Parent Bodies 2022
 Location: Online 
-Dates: 2022-02–21; 2022-02-22
+Dates: 2022-02-21; 2022-02-22
 Type: Oral
 Memo:
 
 
-Presenters: Beniyama Jin, Sako Shigeyuki, Ohsawa Ryou, Takita Satoshi, Kobayashi Naoto, Okumura Shin-ichiro, Urakawa Seitaro, Usui Fumihiko, Yoshida Fumi, Yoshikawa Makoto
+Presenters: Jin Beniyama, Shigeyuki Sako, Ryou Ohsawa, Satoshi Takita, Naoto Kobayashi, Shin-ichiro Okumura, Seitaro Urakawa, Fumihiko Usui, Fumi Yoshida, Makoto Yoshikawa
 Title: Highly Time-Resolved Photometric Observation of Tiny Near Earth Objects with the Tomo-e Gozen Camera
 Event: Japan Geoscience Union Meeting 2021
 Location: Online
