@@ -21,7 +21,7 @@ Event: FY2024 Planetary Defense Symposium (16th Spaceguard Symposium)
 Location: Online
 Dates: 2025-02-27; 2025-02-28
 Type: Oral 
-Memo: Invited talk
+Note: Invited
 URL: https://www.isas.jaxa.jp/researchers/symposium/planetary_defense/fy_2024.html
 
 Presenters: Jin Beniyama & Marco Delbo
@@ -30,7 +30,7 @@ Event: EU-ESA Workshop on Size Determination of Potentially Hazardous Near-Earth
 Location: Darmstadt
 Dates: 2024-11-11; 2024-11-13
 Type: Oral
-Memo: Invited
+Note: Invited
 
 Presenters: Jin Beniyama
 Title: Photometric Observations of Tiny Near-Earth Asteroids during the Close Approaches
@@ -54,7 +54,7 @@ Event: ISAS Planetary Exploration Workshop 2023
 Location: Tokyo, Japan
 Dates: 2023-08-28; 2023-08-30
 Type: Oral
-Memo: Invited
+Note: Invited
 
 Presenters: Jin Beniyama, Sako Shigeyuki, Katsuhito Ohtsuka, ..., (19 co-authors)
 Title: Polarimetric Observations of Small Near-Earth Asteroid 2010 XC15 at Large Phase Angles
@@ -87,7 +87,7 @@ Event: IAU General Assembly, Focus Meeting 8, Planetary Astronomy via Telescopic
 Location: Busan
 Dates: 2022-08-02; 2022-08-03
 Type: Oral 
-Memo: Invited
+Note: Invited
 
 Presenters: Jin Beniyama, Shigeyuki Sako, Ryou Ohsawa, Satoshi Takita, Naoto Kobayashi, Shin-ichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Fumihiko Usui, Fumi Yoshida
 Title: Subsecond Time-Resolved Photometry of Tiny Near-Earth Objects with Tomo-e Gozen
@@ -120,4 +120,4 @@ Event: Japan Geoscience Union Meeting 2021
 Location: Online
 Dates: 2021-05-30; 2021-06-06
 Type: Oral
-Memo: Outstanding Student Presentation Award
+Note: Outstanding Student Presentation Award

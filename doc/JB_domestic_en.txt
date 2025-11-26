@@ -1,14 +1,15 @@
 Presenters: Jin Beniyama
-Title: OISTER Seminar
-Event: Online
+Title: OISTER Colloquium
+Event: On-line
 Location: Online
 Dates: 2025-08-22
 Type: Oral
+Note: Invited
 URL:
 
 Presenters: Jin Beniyama
-Title: Observational Study of Tiny Near-Earth Asteroids Approaching Extremely Close to Earth
-Event: 2024 Optical and Infrared Astronomy Symposium
+Title: Observational Study of Tiny Near-Earth Asteroids during Close Approaches
+Event: 2024 Group of Optical and Infrared Astronomers Symposium
 Location: National Astronomical Observatory + Online
 Dates: 2024-09-07; 2024-09-09
 Type: Oral
@@ -16,16 +17,16 @@ Memo:
 
 Presenters: Jin Beniyama
 Title: Photometric Observations of Tiny Near-Earth Asteroids during Close Approaches
-Event: 25th Planetary Science Workshop (SPS2024)
+Event: 25th Symposium on Planetary Sciences (SPS2024)
 Location: Tohoku University
 Dates: 2024-02-20; 2024-02-22
 Type: Oral
-Memo: Invited Lecture
+Note: Invited
 URL: https://pparc.tohoku.ac.jp/sympo/sps/
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Katsuhito Otsuka, ... (19 authors)
 Title: Photometric and Polarimetric Observations of 2010 XC15 — Discovery of an E-type Near-Earth Asteroid Pair
-Event: Annual Fall Meeting of the Planetary Society of Japan 2023
+Event: 2023 Annual Meeting of the Japanese Society for Planetary Science
 Location: Hiroshima
 Dates: 2023-10-11; 2023-10-13
 Type: Oral
@@ -41,15 +42,15 @@ Memo:
 
 Presenters: Jin Beniyama
 Title: Polarimetric Observations of Tiny Asteroid 2010 XC15 by OISTER
-Event: 13th Inter-University Workshop on Optical and Infrared Astronomy
+Event: 13th OISTER workshop
 Location: Aichi + Online
 Dates: 2023-02-28; 2023-03-01
 Type: Oral
-Memo: Student Presentation Award
+Note: Student Presentation Award
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Ryo Osawa, Rei Takita, Naoto Kobayashi, Shinichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Fumihiko Usui, Fumi Yoshida
 Title: Near-Earth Asteroid Search and Immediate Follow-up Observations for Planetary Defense
-Event: 66th Annual Space Science and Technology Meeting
+Event: 66th Space Sciences and Technology Conference
 Location: Kumamoto
 Dates: 2022-11-01; 2022-11-04
 Type: Oral
@@ -57,7 +58,7 @@ Memo: Hosted by the Japan Society for Aeronautical and Space Sciences
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Ryo Osawa, Rei Takita, Shinichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Fumihiko Usui, Fumi Yoshida, Hiroyuki Maehara
 Title: Immediate Monitoring Observations of Tiny Near-Earth Asteroid 2022 JL
-Event: Annual Fall Meeting of the Planetary Society of Japan 2022
+Event: 2022 Annual Meeting of the Japanese Society for Planetary Science
 Location: Mito + Online
 Dates: 2022-09-20; 2022-09-23
 Type: Oral
@@ -65,7 +66,7 @@ Memo:
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Ryo Osawa, Rei Takita, Shinichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Fumihiko Usui, Fumi Yoshida
 Title: Immediate Monitoring Observations of Tiny Fast-Rotating Asteroid 2022 JL
-Event: Annual Fall Meeting of the Astronomical Society of Japan 2022
+Event: 2022 Annual Fall Meeting of the Astronomical Society of Japan
 Location: Niigata
 Dates: 2022-09-13; 2022-09-15
 Type: Oral
@@ -77,7 +78,7 @@ Event: 2022 Seimei Users Meeting
 Location: Online
 Dates: 2022-07-26; 2022-07-27
 Type: Oral
-Memo: Invited Lecture
+Note: Invited
 
 Presenters: Jin Beniyama
 Title: Immediate Monitoring Observations of Tiny Fast-Rotating Asteroid 2022 JL with Tomo-e and TriCCS
@@ -93,15 +94,15 @@ Event: 2021 Planetary Defense Symposium (13th Spaceguard Workshop)
 Location: Online
 Dates: 2022-02-14–15
 Type: Oral
-Memo: Invited Lecture
+Note: Invited
 
 Presenters: Jin Beniyama
 Title: Comparative Asteroid Science: Near-Earth Asteroids and Main Belt Asteroids
-Event: 23rd Planetary Science Workshop (SPS2022)
+Event: 23rd Symposium on Planetary Sciences (SPS2022)
 Location: Online
 Dates: 2022-02-08; 2022-02-10
 Type: Oral
-Memo: Invited Lecture
+Note: Invited
 
 Presenters: Jin Beniyama
 Title: Exploration of Near-Earth Asteroids Using Wide-Field CMOS Camera Tomo-e Gozen: Achievements and Challenges from Two Years of Full Operations
@@ -113,7 +114,7 @@ Memo:
 
 Presenters: Jin Beniyama
 Title: Immediate Multicolor Simultaneous Imaging Observations of Tiny Near-Earth Asteroids by OISTER
-Event: 12th Inter-University Workshop on Optical and Infrared Astronomy
+Event: 12th OISTER workshop
 Location: Online
 Dates: 2021-11-24; 2021-11-26
 Type: Oral
@@ -121,7 +122,7 @@ Memo:
 
 Presenters: Jin Beniyama
 Title: Characterization of Tiny Near-Earth Asteroids via Immediate Multicolor Simultaneous Imaging
-Event: Young Researchers Workshop on Solar System Bodies (SSBW2021)
+Event: Solar System Bodies Workshop (SSBW2021)
 Location: Online
 Dates: 2021-11-11; 2021-11-12
 Type: Oral
@@ -137,15 +138,15 @@ Memo:
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Ryo Osawa, Rei Takita, Naoto Kobayashi, Shinichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Fumihiko Usui, Fumi Yoshida
 Title: High Time-Resolution Imaging of Near-Earth Asteroids with Kiso 105 cm Schmidt Telescope Tomo-e Gozen
-Event: Fall Meeting of the Planetary Society of Japan 2021
+Event: 2021 Annual Meeting of the Japanese Society for Planetary Science
 Location: Online
 Dates: 2021-09-16; 2021-09-18
 Type: Oral + Poster
-Memo: Best Presentation Award
+Note: Best Presentation Award
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Ryo Osawa, Rei Takita, Naoto Kobayashi, Shinichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Fumihiko Usui, Fumi Yoshida, Tomo-e Gozen Collaboration
 Title: High Time-Resolution Imaging of Tiny Near-Earth Asteroids with Kiso Tomo-e Gozen
-Event: Annual Meeting of the Astronomical Society of Japan 2021
+Event: 2021 Annual Fall Meeting of the Astronomical Society of Japan
 Location: Online
 Dates: 2021-09-13; 2021-09-15
 Type: Oral
@@ -161,7 +162,7 @@ Memo:
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Ryo Osawa, Tomoki Morokuma, Rei Takita, Naoto Kobayashi, Shinichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Shunji Yanagisawa, Hidetaka Sato
 Title: Exploration of Near-Earth Asteroids Using Wide-Field CMOS Camera Tomo-e Gozen
-Event: Fall Meeting of the Planetary Society of Japan 2020
+Event: 2020 Annual Meeting of the Japanese Society for Planetary Science
 Location: Online
 Dates: 2020-11-12; 2020-11-14
 Type: Oral
@@ -169,7 +170,7 @@ Memo:
 
 Presenters: Jin Beniyama
 Title: Immediate Video/Multicolor Photometric Observations of Tiny Near-Earth Asteroids
-Event: 11th Inter-University Workshop on Optical and Infrared Astronomy
+Event: 11th OISTER workshop
 Location: Online
 Dates: 2020-11-10; 2020-11-12
 Type: Oral
@@ -181,11 +182,11 @@ Event: 50th Summer School for Young Astronomers and Astrophysicists 2020
 Location: Online
 Dates: 2020-08-24; 2020-08-27
 Type: Oral
-Memo: Presentation Award
+Note: Presentation Award
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Ryo Osawa, Naoto Kobayashi, Shinichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Shunji Yanagisawa, Hidetaka Sato
 Title: Exploration of Near-Earth Asteroids Using Wide-Field Fast Camera Tomo-e Gozen
-Event: Spring Meeting of the Astronomical Society of Japan 2020
+Event: 2020 Annual Spring Meeting of the Astronomical Society of Japan
 Location: Online
 Dates: 2020-03-16; 2020-03-19
 Type: Oral
@@ -193,7 +194,7 @@ Memo:
 
 Presenters: Jin Beniyama, Shigeyuki Sakou, Ryo Osawa, Tomoki Morokuma, Naoto Kobayashi, Shinichiro Okumura, Seitaro Urakawa, Makoto Yoshikawa, Shunji Yanagisawa, Hidetaka Sato
 Title: Wide-Field Survey of Near-Earth Asteroids with Tomo-e Gozen
-Event: 10th Inter-University Workshop on Optical and Infrared Astronomy
+Event: 10th OISTER workshop
 Location: Okayama Prefecture
 Dates: 2019-12-02; 2019-12-03
 Type: Oral
